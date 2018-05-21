@@ -7,6 +7,7 @@ Enter food page - user can enter by typing and speaking.
 Daily activity panel - shows the calories input and output in user friendly charts.
 User profile page.
 User profile - weight gain and lose.
+
 ![main](images/main_walking.png)
 ![enter meals](images/enterMealLarge.png)
 ![charts](images/dailyActivity.png)
